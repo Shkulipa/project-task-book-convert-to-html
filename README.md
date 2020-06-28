@@ -1,4 +1,4 @@
-You can look more ditail on this repository:
+You can look more ditail in this repository:
 
 ### https://github.com/Shkulipa/project-tasks-book
 
