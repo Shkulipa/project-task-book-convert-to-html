@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/project-tasks-book/static/css/main.38f5109a.chunk.css",
+    "main.js": "/project-tasks-book/static/js/main.505b3f45.chunk.js",
+    "main.js.map": "/project-tasks-book/static/js/main.505b3f45.chunk.js.map",
+    "runtime-main.js": "/project-tasks-book/static/js/runtime-main.7e51e065.js",
+    "runtime-main.js.map": "/project-tasks-book/static/js/runtime-main.7e51e065.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/project-tasks-book/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.21592318.chunk.js": "/project-tasks-book/static/js/2.21592318.chunk.js",
+    "static/js/2.21592318.chunk.js.map": "/project-tasks-book/static/js/2.21592318.chunk.js.map",
+    "index.html": "/project-tasks-book/index.html",
+    "precache-manifest.5f35999826fbf9939c3beacd39e64e7d.js": "/project-tasks-book/precache-manifest.5f35999826fbf9939c3beacd39e64e7d.js",
+    "service-worker.js": "/project-tasks-book/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/project-tasks-book/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.38f5109a.chunk.css.map": "/project-tasks-book/static/css/main.38f5109a.chunk.css.map",
+    "static/js/2.21592318.chunk.js.LICENSE.txt": "/project-tasks-book/static/js/2.21592318.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7e51e065.js",
+    "static/css/2.829c9cb5.chunk.css",
+    "static/js/2.21592318.chunk.js",
+    "static/css/main.38f5109a.chunk.css",
+    "static/js/main.505b3f45.chunk.js"
+  ]
+}
